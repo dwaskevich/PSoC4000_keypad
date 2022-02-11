@@ -1,0 +1,106 @@
+
+
+   ---- Transcoding 'C:\Users\Waskevich\Documents\test\TouchController 2020-001\PCB package\Gerbers\COPPER_TOP.GTL' ----   Fri Feb 11 09:53:25 2022
+
+D14   --> D100
+D13   --> D101
+D18   --> D102
+D16   --> D103
+D20   --> D104
+D15   --> D105
+D19   --> D106
+D17   --> D107
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Waskevich\Documents\test\TouchController 2020-001\PCB package\Gerbers\DJJW_OUTLINE.art' ----   Fri Feb 11 09:53:25 2022
+
+D10   --> D108
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Waskevich\Documents\test\TouchController 2020-001\PCB package\Gerbers\DJJW_SMBOT.art' ----   Fri Feb 11 09:53:25 2022
+
+D12   --> D109
+D13   --> D110
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Waskevich\Documents\test\TouchController 2020-001\PCB package\Gerbers\DJJW_SMTOP.art' ----   Fri Feb 11 09:53:25 2022
+
+D13   --> D111
+D12   --> D112
+D17   --> D113
+D15   --> D114
+D14   --> D115
+D19   --> D116
+D18   --> D117
+D20   --> D118
+D16   --> D119
+D21   --> D120
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Waskevich\Documents\test\TouchController 2020-001\PCB package\Gerbers\DJJW_SSTOP.art' ----   Fri Feb 11 09:53:25 2022
+
+D10   --> D121
+D11   --> D122
+D12   --> D123
+D13   --> D124
+D14   --> D125
+D15   --> D126
+D16   --> D127
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Waskevich\Documents\test\TouchController 2020-001\PCB package\Gerbers\OUTLINE.ART' ----   Fri Feb 11 09:53:25 2022
+
+D10   --> D128
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Waskevich\Documents\test\TouchController 2020-001\PCB package\Gerbers\SILKSCREEN_TOP.GTO' ----   Fri Feb 11 09:53:25 2022
+
+D10   --> D129
+D11   --> D130
+D12   --> D131
+D13   --> D132
+D14   --> D133
+D15   --> D134
+D16   --> D135
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Waskevich\Documents\test\TouchController 2020-001\PCB package\Gerbers\SOLDERMASK_BOTTOM.GBS' ----   Fri Feb 11 09:53:25 2022
+
+D12   --> D136
+D13   --> D137
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Waskevich\Documents\test\TouchController 2020-001\PCB package\Gerbers\SOLDERMASK_TOP.GTS' ----   Fri Feb 11 09:53:25 2022
+
+D13   --> D138
+D12   --> D139
+D17   --> D140
+D15   --> D141
+D14   --> D142
+D19   --> D143
+D18   --> D144
+D20   --> D145
+D16   --> D146
+D21   --> D147
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Waskevich\Documents\test\TouchController 2020-001\PCB package\Gerbers\TOP.art' ----   Fri Feb 11 09:53:25 2022
+
+D14   --> D148
+D13   --> D149
+D18   --> D150
+D16   --> D151
+D20   --> D152
+D15   --> D153
+D19   --> D154
+D17   --> D155
+-----------------------------------------------------------------
